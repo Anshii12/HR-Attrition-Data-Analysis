@@ -36,5 +36,3 @@ The dashboard allows for deep-dives into specific geographical segments:
 1. Download the .xlsx file.
 2. Open in Excel and ensure "Enable Content" is selected for the slicers.
 3. Use the Region, Department, and Manager filters to explore the data dynamically.
-
-Does this structure match the vibe of your previous GitHub projects?
