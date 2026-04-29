@@ -8,7 +8,8 @@ As an HR professional transitioning into Data Analytics, I developed this intera
 
 ## Pre-Analysis Questions & Key Insights
 The dashboard was designed to answer specific business queries. Here are the findings:
-<img width="1179" height="644" alt="image" src="https://github.com/user-attachments/assets/dbae6e66-c62c-496f-aa6d-6bf750bcaa01" />
+<img width="1179" height="644" alt="image" src="<img width="1704" height="668" alt="image" src="https://github.com/user-attachments/assets/b044345f-5a25-497f-9afe-136c86d371e4" />
+" />
 
 
 # 1. How is our talent distributed across age groups?
